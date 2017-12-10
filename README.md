@@ -2,8 +2,9 @@
 Square rainmeter apps
 
 ### Example
-![Example layout](https://i.imgur.com/qyxJybw.png)
 [Animated GIF](https://gfycat.com/KaleidoscopicEllipticalBlackmamba)
+
+![Example layout](https://i.imgur.com/qyxJybw.png)
 
 ## Download
 [Installer](https://github.com/Filip9696/SquareApps/raw/master/Square%20Apps_1.0.rmskin)
