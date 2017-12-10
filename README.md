@@ -1,6 +1,8 @@
 # SquareApps
 Square rainmeter apps
 
+![Example layout](https://gfycat.com/KaleidoscopicEllipticalBlackmamba)
+
 ## Download
 [Installer](https://github.com/Filip9696/SquareApps/raw/master/Square%20Apps_1.0.rmskin)
 
