@@ -8,6 +8,7 @@ Square rainmeter apps
 
 ## Download
 [Installer](https://github.com/Filip9696/SquareApps/raw/master/Square%20Apps_1.1.rmskin)
+
 [Red Installer](https://github.com/Filip9696/SquareApps/raw/red/Square%20Apps_1.1R.rmskin)
 
 ## Commiting
