@@ -11,6 +11,8 @@ Square rainmeter apps
 
 [Red Installer](https://github.com/Filip9696/SquareApps/raw/red/Square%20Apps_1.1R.rmskin)
 
+[Blue Installer](https://github.com/Filip9696/SquareApps/raw/blue/Square%20Apps_1.1B.rmskin)
+
 ## Commiting
 Please keep all icons white with the greenish background
 If you want different colors please make a separate branch to be accepted
