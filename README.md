@@ -4,17 +4,12 @@ Square rainmeter apps
 ### Example
 [Animated GIF](https://gfycat.com/KaleidoscopicEllipticalBlackmamba)
 
-![Example layout](https://i.imgur.com/qyxJybw.png)
+![Example layout](https://i.imgur.com/22lx2mM.png)
 
 ## Download
-[Installer](https://github.com/Filip9696/SquareApps/raw/master/Square%20Apps_1.1.rmskin)
-
-[Red Installer](https://github.com/Filip9696/SquareApps/raw/red/Square%20Apps_1.1R.rmskin)
-
-[Blue Installer](https://github.com/Filip9696/SquareApps/raw/blue/Square%20Apps_1.1B.rmskin)
+[Installer](https://github.com/Filip9696/SquareApps/releases/download/1.2/SquareApps_1.2.rmskin)
 
 ## Commiting
-Please keep all icons white with the greenish background
-If you want different colors please make a separate branch to be accepted
-When making an icon you can open the template with paint.net try and keep the size of the icon between the red and yellow box the pink X should mark the center of the icon
+Please keep all icons white unless its really nessicarry, as with the Netflix icon.
+When making an icon you can open the templete with paint.net try and keep the size of the icon between the red and yellow box the pink X should mark the center of the icon
 When making the .ini file feel free to credit yourself in the author metadata and make sure that the execute tag will work on the majority of computers
