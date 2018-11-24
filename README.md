@@ -7,7 +7,7 @@ Square rainmeter apps
 ![Example layout](https://i.imgur.com/22lx2mM.png)
 
 ## Download
-[Installer](https://github.com/Filip9696/SquareApps/releases/download/1.2/SquareApps_1.2.rmskin)
+[Installer](https://github.com/Filip9696/SquareApps/releases/download/1.3/SquareApps_1.3.rmskin)
 
 ## Commiting
 Please keep all icons white unless its really nessicarry, as with the Netflix icon.
