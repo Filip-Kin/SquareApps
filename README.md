@@ -4,7 +4,7 @@ Square rainmeter apps
 ### Example
 [Animated GIF](https://gfycat.com/KaleidoscopicEllipticalBlackmamba)
 
-![Example layout](https://i.imgur.com/22lx2mM.png)
+![Example layout](https://i.imgur.com/sliXWjv.jpg)
 
 ## Download
 The system monitor is setup to use Oswald as its font, please install the font if you wish to use the system monitor.
