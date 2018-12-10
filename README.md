@@ -7,7 +7,9 @@ Square rainmeter apps
 ![Example layout](https://i.imgur.com/22lx2mM.png)
 
 ## Download
-[Installer](https://github.com/Filip9696/SquareApps/releases/download/1.3/SquareApps_1.3.rmskin)
+The system monitor is setup to use Oswald as its font, please install the font if you wish to use the system monitor.
+[Installer](https://github.com/Filip9696/SquareApps/releases/download/2.0/SquareApps_2.0.rmskin)
+[Oswald](https://github.com/google/fonts/raw/master/ofl/oswald/Oswald-Regular.ttf)
 
 ## Commiting
 Please keep all icons white unless its really nessicarry, as with the Netflix icon.
